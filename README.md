@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rishavsingh-jbn&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishavsingh-jbn&style=for-the-badge&color=brightgreen)
 
 ## About Me
 
