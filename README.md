@@ -4,6 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishavsingh-jbn&style=for-the-badge&color=brightgreen)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## About Me
 
 - 🔭 I’m currently working on **[Your Current Project](#)**.
