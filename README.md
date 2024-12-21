@@ -10,16 +10,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🔭 I’m currently working on **[Your Current Project](#)**.
-- 🌱 I’m currently learning **[Technology/Language you are learning](#)**.
-- 👯 I’m looking to collaborate on **[Projects you'd like to collaborate on](#)**.
-- 💬 Ask me about **[Your areas of expertise](#)**.
-- 📫 How to reach me: **[Your Email](mailto:your-email@example.com)**.
-- ⚡ Fun fact: **[A fun fact about you](#)**.
+- 🔭 I’m currently working on **full stack app(#)**.
+- 🌱 I’m currently learning **MERN stack devrlopment(#)**.
+- 📫 How to reach me: **[My Gmail](rishavsinghjbn@gmail.com)**.
+- ⚡ Fun fact: **I am Human(#)**.
 
 ## Skills
 
-- **Languages:** [List of programming languages you know]
+- **Languages:** [
 - **Frameworks:** [List of frameworks you work with]
 - **Tools:** [List of tools you use]
 - **Other:** [Any other skills or technologies]
