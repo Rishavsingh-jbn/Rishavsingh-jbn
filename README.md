@@ -10,17 +10,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 🔭 I’m currently working on **full stack app(#)**.
-- 🌱 I’m currently learning **MERN stack devrlopment(#)**.
+- 🔭 I’m currently working on **full stack app**.
+- 🌱 I’m currently learning **MERN stack devrlopment**.
 - 📫 How to reach me: **[My Gmail](rishavsinghjbn@gmail.com)**.
-- ⚡ Fun fact: **I am Human(#)**.
+- ⚡ Fun fact: **I am Human after all**.
 
 ## Skills
 
-- **Languages:** [
-- **Frameworks:** [List of frameworks you work with]
-- **Tools:** [List of tools you use]
-- **Other:** [Any other skills or technologies]
+- **Languages:** : C++,HTML,CSS,JavaScript,JAVA,Python
+- **Frameworks:** :ReactJS, ExpressJS, Tailwind CSS,Bootstrap
+- **Tools:** :Postman,Git,Github
 
 ## Projects
 
