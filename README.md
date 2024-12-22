@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - 🔭 I’m currently working on **full stack app**.
 - 🌱 I’m currently learning **MERN stack devrlopment**.
-- 📫 How to reach me: **[My Gmail](rishavsinghjbn@gmail.com)**.
+- 📫 How to reach me: **[gmail](rishavsinghjbn@gmail.com)**.
 - ⚡ Fun fact: **I am Human after all**.
 
 ## Skills
